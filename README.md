@@ -13,7 +13,7 @@ This is a fun project where you can discover random cat facts, view adorable cat
 
 ## Live Demo
 
-You can access the app and try out the features here: [Cat Fact Live Demo](https://spotifytwin.freewebhostmost.com/)
+You can access the app and try out the features here: [Cat Fact Live Demo](https://nikhil-8285.github.io/Random-Cat-Facts/)
 
 
 ## Technologies Used
