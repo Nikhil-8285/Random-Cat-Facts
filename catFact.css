@@ -50,14 +50,28 @@ body {
 }
 
 @media (max-width: 800px) {
-  .container{
-    flex-direction: column;
-  }
+    .container {
+        flex-direction: column;
+    }
 
-  .innerDiv{
-    width: 90%;
-    margin: 1.5rem;
-  }
+    .innerDiv {
+        width: 90%;
+        margin: 1.5rem;
+        height: auto;
+        max-height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .fact {
+        overflow-y: auto;
+        height: auto;
+        max-height: 190px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-sizing: border-box;
+        flex-wrap: wrap;
+    }
 }
-
-
