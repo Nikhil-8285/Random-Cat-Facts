@@ -11,6 +11,10 @@ This is a fun project where you can discover random cat facts, view adorable cat
 
 - **Cat Images and GIFs:** View a random cat image or looping GIF every time you refresh or click to brighten your day!
 
+## Live Demo
+
+You can access the app and try out the features here: [Cat Fact Live Demo](https://spotifytwin.freewebhostmost.com/)
+
 
 ## Technologies Used
 
